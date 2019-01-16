@@ -8,7 +8,9 @@ python Ucallpeak.py -t treatment1.bed treatment2.bed -c control1.bdg control2.bd
 
 Required:
 -o    Output file name
+
 -t    Treatment files
+
 -c    Control files
 
 Optional:
