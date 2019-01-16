@@ -15,5 +15,7 @@ Required:
 -c    Control files
 
 Optional:
+
 -chr    only do analysis for this chromosome - can be used to parallelize the script
+
 -e_bed  exclude all regions in this bed file
