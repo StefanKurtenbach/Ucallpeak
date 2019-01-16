@@ -1,7 +1,10 @@
-# Ucallpeak
-Calls peaks from normalized bedgraph files
+Ucallpeak - NGS peak caller taking replicates into account to detect smaller changes.
 
-Use sorted bedgraph files as input. Threshold of peak detection and allowance for gaps can be set in the skript. The skript will take all bedgraph files in the same folder and perform peak calling on them. It's reccomended to use normalized bedgraph files.
+Use sorted bedgraph files as input. Threshold of peak detection and allowance for gaps can be set in the skript.
+
+Example:
+python Ucallpeak.py -t treatment1.bed treatment2.bed -c control1.bdg control2.bdg control3.bdg -o output.txt
+
 
 Required:
 -o    Output file name
