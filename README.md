@@ -12,7 +12,7 @@ Required:
 
 -t    Treatment files
 
--c    Control files
+-c		Control files
 
 Optional:
 
