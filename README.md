@@ -1,4 +1,4 @@
-Ucallpeak - NGS peak caller taking replicates into account to detect smaller changes.
+Ucallpeak - NGS peak caller taking replicates into account to detect smaller changes. Especially suited for ATAC-seq, as the peak caller does not require an input file. For other NGS datatypes use normalized bedgraphs.
 
 Use sorted bedgraph files as input. Threshold of peak detection and allowance for gaps can be set in the skript.
 
