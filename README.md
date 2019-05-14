@@ -6,7 +6,7 @@
 Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with different stringency settings. 
 
 
-##### Howto:
+#### Usage:
 
 Use sorted bedgraph files as input. Threshold of peak detection and allowance for gaps can be set in the skript.
 
