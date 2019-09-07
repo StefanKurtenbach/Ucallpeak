@@ -1,5 +1,4 @@
-# UATAC v3.5
-# Files need to be normalized beforhand (RPM ect)
+# Ucallpeak 3.5
 
 import argparse
 import copy
