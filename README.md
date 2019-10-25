@@ -13,7 +13,10 @@ Usage:
 Use sorted normalized bedgraph files as input.
 
 Example:
-python Ucallpeak.py -t treatment1.bed treatment2.bed -c control1.bdg control2.bdg control3.bdg -o output.txt
+python Ucallpeak.py \
+-t treatment1.bed treatment2.bed \
+-c control1.bdg control2.bdg control3.bdg \
+-o output.txt
 
 Required:
 -o        Output file name
