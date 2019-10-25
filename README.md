@@ -1,6 +1,6 @@
-# Ucallpeak
-##### Comprehensive NGS peak caller taking replicates into account to detect smaller changes.
+# Ucallpeak -  Comprehensive peak caller from replicates
 
+<pre>
 Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with different stringency settings.
 <img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/Example%20peak%20calling.png" width="300">
 
@@ -30,3 +30,5 @@ Optional:
 
 Known issues:
 - This script is not very efficient and will run for a significant time. It is reccomended to split up chromosomes (-chr command) to paralellize and speed up the analysis.
+
+</pre>
