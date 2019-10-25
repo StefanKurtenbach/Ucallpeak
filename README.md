@@ -5,7 +5,7 @@ Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with diffe
 <img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/Example%20peak%20calling.png" width="300">
 
 Expample of peak Upeakcall output.
-<img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/sample%20table.png" width="600">
+<img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/sample%20table.png" width="800">
 
 
  
