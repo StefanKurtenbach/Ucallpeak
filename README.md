@@ -16,13 +16,13 @@ python Ucallpeak.py -t treatment1.bed treatment2.bed -c control1.bdg control2.bd
 
 Required:
 -o		    Output file name
--t      Treatment files
+-t        Treatment files
 -c		    Control files
 
 Optional:
--chr    only do analysis for this chromosome - can be used to parallelize the script
--e_bed  exclude all regions in this bed file
-
+-chr      only do analysis for this chromosome - can be used to parallelize the script
+-e_bed    exclude all regions in this bed file
+  
 
 Known issues:
 - This script is not very efficient and will run for a significant time. It is reccomended to split up chromosomes (-chr command) to paralellize and speed up the analysis.
