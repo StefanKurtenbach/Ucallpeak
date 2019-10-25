@@ -1,4 +1,4 @@
-# Ucallpeak -  Comprehensive peak caller from replicates
+# Ucallpeak -  Comprehensive NGS peak calling from replicates
 
 <pre>
 Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with different stringency settings.
