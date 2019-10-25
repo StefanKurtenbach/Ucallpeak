@@ -1,13 +1,17 @@
 # Ucallpeak
 ##### Comprehensive NGS peak caller taking replicates into account to detect smaller changes.
-![Image description](https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/Example%20peak%20calling.png)
+
+
+<img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/Example%20peak%20calling.png" width="400">
 
 Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with different stringency settings. 
 
 
 #### Usage:
 
-Use sorted bedgraph files as input. Threshold of peak detection and allowance for gaps can be set in the skript.
+Use sorted normalized bedgraph files as input.
+
+
 
 Example:
 python Ucallpeak.py -t treatment1.bed treatment2.bed -c control1.bdg control2.bdg control3.bdg -o output.txt
