@@ -15,9 +15,9 @@ Example:
 python Ucallpeak.py -t treatment1.bed treatment2.bed -c control1.bdg control2.bdg control3.bdg -o output.txt
 
 Required:
--o		    Output file name
+-o        Output file name
 -t        Treatment files
--c		    Control files
+-c        Control files
 
 Optional:
 -chr      only do analysis for this chromosome - can be used to parallelize the script
