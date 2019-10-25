@@ -25,7 +25,7 @@ Optional:
   
 
 Known issues:
--This script is not very efficient and will run for a significant time. 
+This script is not very efficient and will run for a significant time. 
 It is reccomended to split up chromosomes (-chr command) to paralellize and speed up the analysis.
 
 </pre>
