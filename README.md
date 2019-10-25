@@ -3,6 +3,8 @@
 
 
 <img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/Example%20peak%20calling.png" width="300">
+<img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/sample%20table.png" width="300">
+
 
 Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with different stringency settings. 
 
@@ -11,24 +13,16 @@ Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with diffe
 
 Use sorted normalized bedgraph files as input.
 
-
-
 Example:
 python Ucallpeak.py -t treatment1.bed treatment2.bed -c control1.bdg control2.bdg control3.bdg -o output.txt
 
-
 Required:
-
 -o		Output file name
-
 -t    Treatment files
-
 -c		Control files
 
 Optional:
-
 -chr    only do analysis for this chromosome - can be used to parallelize the script
-
 -e_bed  exclude all regions in this bed file
 
 
