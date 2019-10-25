@@ -1,7 +1,8 @@
 # Ucallpeak -  Comprehensive NGS peak calling from replicates
 
 <pre>
-Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with different stringency settings.
+Image shows Ucallpeak peakcalls in first row, and MACS2 bdgdiff calls with different 
+stringency settings below.
 <img src="https://raw.githubusercontent.com/StefanKurtenbach/Ucallpeak/master/Example%20peak%20calling.png" width="300">
 
 Expample Upeakcall output.
